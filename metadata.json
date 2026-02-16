@@ -1,0 +1,8 @@
+{
+  "name": "Copy of PMC12 Academy - IA Éducative",
+  "description": "Une plateforme d'apprentissage intelligente propulsée par l'IA pour les étudiants et enseignants. Inclut un tuteur personnel, un générateur de quiz et des analyses de progression.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
